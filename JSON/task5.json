@@ -1,0 +1,44 @@
+[
+    {
+        "a": "string",
+        "b": 123,
+        "c": 12.34,
+        "d": false,
+        "e": ["abc", "def", "ghi"] 
+    },
+    {
+        "a": "otherstring",
+        "b": 456,
+        "c": 56.78,
+        "d": false,
+        "e": ["jkl", "mno", "pqr"] 
+    },
+    {
+        "a": "thirdstring",
+        "b": 789,
+        "c": 90.12,
+        "d": true,
+        "e": ["stu", "vwx", "yza"] 
+    },
+    {
+        "a": "fourthstring",
+        "b": 123,
+        "c": 34.56,
+        "d": true,
+        "e": ["bcd", "efg", "hij"] 
+    },
+    {
+        "a": "fifthstring",
+        "b": 456,
+        "c": 78.91,
+        "d": true,
+        "e": ["klm", "nop", "qrs"] 
+    },
+    {
+        "a": "sixthstring",
+        "b": 789,
+        "c": 23.45,
+        "d": false,
+        "e": ["tuv", "wxy", "zab"] 
+    }
+]
